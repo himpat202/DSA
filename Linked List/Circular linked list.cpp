@@ -1,6 +1,14 @@
 #include<iostream>
 using namespace std;
 
+typedef long double                                      ld;
+typedef pair <int, int>                                  pii;
+typedef pair <pii, int>                                  ppi;
+typedef pair <int, pii>                                  pip;
+typedef pair <pii, pii>                                  ppp;
+typedef pair <ll, ll>                                    pll;
+ 
+
 template<typename T>class Node{
     private:
         T data;
