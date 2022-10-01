@@ -1,5 +1,5 @@
 package functions;
-
+import java.io.*;
 import java.util.Scanner;
 
 public class find_element_array {
